@@ -1,0 +1,29 @@
+{
+  "id":"5",
+  "port":"8905",
+  "weight":0,
+  "source":false,
+  "neighbourNodes": [
+    {
+      "id":"4",
+      "ipAddress":"192.168.1.37",
+      "port":"8904",
+      "weight":4},
+    {
+      "id":"3",
+      "ipAddress":"192.168.1.37",
+      "port":"8903",
+      "weight":1},
+    {
+      "id":"2",
+      "ipAddress":"192.168.1.37",
+      "port":"8902",
+      "weight":1},
+    {
+      "id":"6",
+      "ipAddress":"192.168.1.37",
+      "port":"8906",
+      "weight":1}
+  ]
+
+}
